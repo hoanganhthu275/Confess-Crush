@@ -1,0 +1,19 @@
+const CONFIG = {
+    titleWeb: "Sweet gift đến từ người xinh đẹp nhất thế giới",
+    introTitle: 'Hoàng Anh Thư',
+    introDesc: For you:`
+    Đằng ấy ơi,
+    Đến giờ đi ngủ rồi,
+    Mau ngủ thôi`,
+    btnIntro: '^^click^^',
+    title: 'Điều gì khiến bạn khó ngủ như vậy 🥰',
+    desc: 'Phải chăng bạn đang nhớ tôi rất nhìuu ',
+    btnYes: 'Thích lắm <33',
+    btnNo: 'Không nha :3',
+    question: 'Không chịu ngủ là ăn đấm đó <3',
+    btnReply: 'Gửi cho bạn <3',
+    reply: 'NGỦ NGON NHA <33333333',
+    mess: '🥰😘😘',
+    messDesc: 'Mơ đẹp nhé.',
+    btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://www.facebook.com/profile.php?id=100074016201396' 
